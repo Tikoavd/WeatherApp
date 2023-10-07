@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="mph_format">%.1f mph</string>
+    <string name="humidity_format">%d %% </string>
+    <string name="day_info_format">It’s a %s day.</string>
+    <string name="temp_symbol">&#176;</string>
+    <string name="search_city">Search City</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="temp_full_format">%.1f&#176;/%1.f&#176;F</string>
+    <string name="temp_far_format">%1.f&#176;F</string>
+</resources>
